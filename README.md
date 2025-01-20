@@ -1,7 +1,7 @@
 ### Hi There! My name is Kamo.
 -----
 # :crystal_ball: About Me
-My name is Kamogelo Tsatsi and I am a Systems Development student!
+My name is Kamogelo Tsatsi and I am a Systems Development Graduate!
 ```java
 public class Kamo extends Parents{
   private int age = 20;
