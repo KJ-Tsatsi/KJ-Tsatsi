@@ -13,6 +13,6 @@ public class Kamo extends Parents{
 # Tech Stack
 [![Languages](https://skillicons.dev/icons?i=java,py,js,html,css)](https://skillicons.dev)
 
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=docker,git,maven,sqlite)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=docker,git,maven,sqlite,gitlab)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=idea,vscode,linux)](https://skillicons.dev)
